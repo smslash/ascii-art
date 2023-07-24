@@ -12,7 +12,7 @@ Ascii-art is a program which consists in receiving a `string` as an argument and
 
 What we mean by a graphic representation using ASCII, is to write the `string` received using ASCII characters, as you can see in the example below:
 
-```bash
+```
 @@@@@@BB@@@@``^^``^^``@@BB$$@@BB$$
 @@%%$$$$^^^^WW&&8888&&^^""BBBB@@@@
 @@@@@@""WW8888&&WW888888WW``@@@@$$
@@ -46,9 +46,11 @@ $$@@$$$$$$$$``````````@@$$@@$$$$$$
 
 - Some **banner** files with a specific graphical template representation using ASCII will be given. The files are formatted in a way that is not necessary to change them.
 
-    [shadow](https://01.alem.school/git/root/public/src/branch/master/subjects/ascii-art/shadow.txt)
-    [standard](https://01.alem.school/git/root/public/src/branch/master/subjects/ascii-art/standard.txt)
-    [thinkertoy](https://01.alem.school/git/root/public/src/branch/master/subjects/ascii-art/thinkertoy.txt)
+[shadow](https://01.alem.school/git/root/public/src/branch/master/subjects/ascii-art/shadow.txt)
+
+[standard](https://01.alem.school/git/root/public/src/branch/master/subjects/ascii-art/standard.txt)
+
+[thinkertoy](https://01.alem.school/git/root/public/src/branch/master/subjects/ascii-art/thinkertoy.txt)
 
 
 ## Banner Format
